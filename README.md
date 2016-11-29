@@ -7,4 +7,6 @@ Mock Server
 
 3、响应数据格式化，在responseFormat.js中预设了各种响应数据格式包裹
 
+PS: mock数据的生成可以使用 http://www.json-generator.com/ 实现，非常方便。
+
 

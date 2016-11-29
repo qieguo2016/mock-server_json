@@ -1,0 +1,14 @@
+{
+  "name": "SimpleMock",
+  "version": "0.0.0",
+  "private": true,
+  "description": "a simple mock server base on JSON file",
+  "main": "./server.js",
+  "scripts": {
+    "start": "node ./server",
+    "dev": "supervisor ./server"
+  },
+  "dependencies": {
+    "log4js": "^1.0.1"
+  }
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "originatorNo": "0aa2cae1fab75",
+    "compShortName": "xx",
+    "compFullName": "公司",
+    "compRegAsset": "3,000,000,000",
+    "compRegTime": "2016-11-21 00:00:00",
+    "compBizType": 1,
+    "creator": "system",
+    "gmtCreated": "2016-11-21 15:08:08",
+    "gmtModified": "2016-11-21 15:08:08",
+    "isDeleted": "N"
+  },
+  {
+    "originatorNo": "aa2cae7503ae0",
+    "compShortName": "星",
+    "compFullName": "公司",
+    "compRegAsset": "3,000,000,000",
+    "compRegTime": "2016-11-21 00:00:00",
+    "compBizType": 1,
+    "creator": "system",
+    "gmtCreated": "2016-11-21 15:08:08",
+    "gmtModified": "2016-11-21 15:08:08",
+    "isDeleted": "N"
+  }
+]
